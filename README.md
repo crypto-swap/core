@@ -1,6 +1,6 @@
 # Development Timeline
 
-Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/whitepaper.pdf)
+
 
 {% tabs %}
 {% tab title="April 2022" %}

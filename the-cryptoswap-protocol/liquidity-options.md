@@ -4,7 +4,7 @@ description: A non-technical overview of liquidity options.
 
 # Liquidity Options
 
-Proof Based Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/whitepaper.pdf)
+Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/whitepaper.pdf)
 
 ### **Liquidity Options**
 

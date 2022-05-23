@@ -4,8 +4,6 @@ description: Motivation behind the CryptoSwap protocol and Liquidity Options
 
 # Motivation
 
-Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/whitepaper.pdf)
-
 ### Motivation
 
 AMMs use a formula in order to determine how assets are priced in a pool. These are called **Constant function market makers (CFMMs)** because the rules never change; regardless of the size of the trade or the assets being traded. Many notable protocols use CFMMs:
