@@ -1,6 +1,6 @@
 # Development Timeline
 
-
+Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/whitepaper.pdf)
 
 {% tabs %}
 {% tab title="April 2022" %}
@@ -27,7 +27,7 @@
 {% endtab %}
 
 {% tab title="July 2022" %}
-0\. 🕙 Testnet absolutely must release by this month or else I will not sleep.&#x20;
+0\. 🕙 Testnet absolutely must release by this month or else we will not sleep.&#x20;
 {% endtab %}
 {% endtabs %}
 
