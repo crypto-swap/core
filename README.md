@@ -27,7 +27,7 @@ Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/white
 {% endtab %}
 
 {% tab title="July 2022" %}
-0\. 🕙 Testnet absolutely must release by this month or else we will not sleep.&#x20;
+0\. 🕙 Testnet out for sure.&#x20;
 {% endtab %}
 {% endtabs %}
 
