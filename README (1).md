@@ -18,10 +18,11 @@
 {% endtab %}
 
 {% tab title="June 2022" %}
-1. ⚙️ Finish smart contracts for zkSync testnet (CFMM).&#x20;
+1. ✅ Finish smart contracts for zkSync testnet (CFMM).&#x20;
 2. ⚙️ Finish the "Pool" page and its features.&#x20;
 3. ⚙️Allow the website to effectively communicate with smart contracts on the Testnet.
-4. 🕙 Testnet on zkSync is out.&#x20;
+4. ⚙️ Create a faucet for zkSync alpha testnet tokens.
+5. 🕙 Testnet on zkSync is out.&#x20;
 {% endtab %}
 
 {% tab title="July 2022" %}
