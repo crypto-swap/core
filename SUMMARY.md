@@ -8,8 +8,9 @@
 
 ## Translations
 
+* [中文](translations/zhong-wen.md)
 * [Việt](the-cryptoswap-protocol/vit-zhong-wen.md)
-* [Persion](translations/persion.md)
+* [گزینه های نقدینگی](translations/gzynh-hay-nqdyngy.md)
 
 ## Other
 
