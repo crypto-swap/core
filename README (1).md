@@ -26,7 +26,13 @@
 {% endtab %}
 
 {% tab title="July 2022" %}
-0\. 🕙 Testnet out for sure.&#x20;
+1\. 🕙 Testnet out for sure.&#x20;
+
+2\. 🕙 Implementing Liquidity Options.&#x20;
+
+3\. 💡 Design tokenomics & governance schema.&#x20;
+
+4\. 💡 MEV prevention architecture.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -39,3 +45,5 @@ Key:
 ❗️- Delayed
 
 🕙 - To be done&#x20;
+
+💡 - Planning
