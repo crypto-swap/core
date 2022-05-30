@@ -18,3 +18,11 @@
 Transactions go from:
 
 User -> Wallet -> Searcher -> Builder/Miner -> Validator&#x20;
+
+1. Option 1: We become the searcher.
+2. Option 2: We do the front-running.&#x20;
+3. Option 3: We build a mechanism to prevent/reduce frontrunning.&#x20;
+
+We are still in the process of figuring out how to solve this.&#x20;
+
+But one thing is for certain: **we are aware of this issue.**
