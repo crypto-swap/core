@@ -9,6 +9,7 @@
 ## Translations
 
 * [Việt](the-cryptoswap-protocol/vit-zhong-wen.md)
+* [Persion](translations/persion.md)
 
 ## Other
 
