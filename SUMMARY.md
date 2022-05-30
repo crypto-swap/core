@@ -1,8 +1,13 @@
 # Table of contents
 
+* [Development Timeline](README.md)
+
 ## The CryptoSwap protocol
 
-* [Development Timeline](README.md)
+* [Introduction](the-cryptoswap-protocol/introduction.md)
 * [Motivation](the-cryptoswap-protocol/motivation.md)
 * [Liquidity Options](the-cryptoswap-protocol/liquidity-options.md)
-* [Việt 中文](the-cryptoswap-protocol/vit-zhong-wen.md)
+
+## Translations
+
+* [Việt](translations/viet.md)
