@@ -12,4 +12,4 @@
 
 ## Other
 
-* [Development Timeline](other/development-timeline.md)
+* [Development Timeline](<README (1).md>)
