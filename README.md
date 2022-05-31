@@ -19,9 +19,7 @@ Transactions go from:
 
 User -> Wallet -> Searcher -> Builder/Miner -> Validator&#x20;
 
-1. Option 1: We become the searcher.
-2. Option 2: We do the front/back-running.&#x20;
-3. Option 3: We build a mechanism to prevent/reduce frontrunning, backrunning, and sandwich attacks.&#x20;
+Problems: Front/Back Running and Sandwich Attacks
 
 We are still in the process of figuring out how to solve this.&#x20;
 
