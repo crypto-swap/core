@@ -23,4 +23,7 @@ Problems: Front/Back Running and Sandwich Attacks
 
 We are still in the process of figuring out how to solve this.&#x20;
 
+1. Time locked encryption to prevent front-running attacks.
+2. Batched Sub-Orders
+
 But one thing is for certain: **we are aware of this issue.**
