@@ -1,8 +1,6 @@
----
-description: 'Whitepaper: https://cryptoswap.org/whitepaper.pdf'
----
-
 # Introduction
+
+Whitepaper: [https://cryptoswap.org/whitepaper.pdf](https://cryptoswap.org/whitepaper.pdf)
 
 ### Two-fold Protection:&#x20;
 
