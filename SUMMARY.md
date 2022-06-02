@@ -10,5 +10,6 @@
 
 * [Development Timeline](<README (1).md>)
 * [中文](other/zhong-wen.md)
-* [Việt](other/viet.md)
+* [แบบไทย](other/undefined.md)
 * [گزینه های نقدینگی](other/gzynh-hay-nqdyngy.md)
+* [Việt](other/viet.md)
