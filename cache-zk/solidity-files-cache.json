@@ -36,8 +36,8 @@
       ]
     },
     "/home/zekiel/crypto-swap/core/contracts/uniswap-v2/UniswapV2Router02.sol": {
-      "lastModificationDate": 1652749703029,
-      "contentHash": "c475624b7edc236b6bc7381e11c2bd3b",
+      "lastModificationDate": 1655454380140,
+      "contentHash": "d2604e8903f6c65428d8b11ba03211a3",
       "sourceName": "contracts/uniswap-v2/UniswapV2Router02.sol",
       "solcConfig": {
         "version": "0.8.12",
@@ -392,13 +392,13 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "IMigrator",
-        "UniswapV2Pair"
+        "UniswapV2Pair",
+        "IMigrator"
       ]
     },
     "/home/zekiel/crypto-swap/core/contracts/uniswap-v2/UniswapV2ERC20.sol": {
-      "lastModificationDate": 1652748937286,
-      "contentHash": "61cdf7ee205dfe51304ec11e90a0a127",
+      "lastModificationDate": 1655684862250,
+      "contentHash": "36f9fbb446d7950d16bd786a393e538b",
       "sourceName": "contracts/uniswap-v2/UniswapV2ERC20.sol",
       "solcConfig": {
         "version": "0.8.12",
@@ -603,6 +603,40 @@
       ],
       "artifacts": [
         "IUniswapV2ERC20"
+      ]
+    },
+    "/home/zekiel/crypto-swap/core/contracts/uniswap-v2/weth.sol": {
+      "lastModificationDate": 1655693621769,
+      "contentHash": "d2a5ff5e81c6a3531493f8c487583b9a",
+      "sourceName": "contracts/uniswap-v2/weth.sol",
+      "solcConfig": {
+        "version": "0.8.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "WETH9"
       ]
     }
   }

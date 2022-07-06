@@ -5,6 +5,8 @@ import type * as uniswapV2PairSol from "./UniswapV2Pair.sol";
 export type { uniswapV2PairSol };
 import type * as interfaces from "./interfaces";
 export type { interfaces };
+import type * as wethSol from "./weth.sol";
+export type { wethSol };
 export type { UniswapV2ERC20 } from "./UniswapV2ERC20";
 export type { UniswapV2Factory } from "./UniswapV2Factory";
 export type { UniswapV2Router02 } from "./UniswapV2Router02";
@@ -32,3 +34,5 @@ export { IMigrator__factory } from "./factories/UniswapV2Pair.sol/IMigrator__fac
 export type { UniswapV2Pair } from "./UniswapV2Pair.sol/UniswapV2Pair";
 export { UniswapV2Pair__factory } from "./factories/UniswapV2Pair.sol/UniswapV2Pair__factory";
 export { UniswapV2Router02__factory } from "./factories/UniswapV2Router02__factory";
+export type { WETH9 } from "./weth.sol/WETH9";
+export { WETH9__factory } from "./factories/weth.sol/WETH9__factory";

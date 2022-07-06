@@ -6,7 +6,7 @@ contract UniswapV2ERC20 {
     using SafeMathUniswap for uint;
 
     string public constant name = 'CryptoSwap LP Token';
-    string public constant symbol = 'CLP';
+    string public constant symbol = 'CsP';
     uint8 public constant decimals = 18;
     uint  public totalSupply;
     mapping(address => uint) public balanceOf;
@@ -20,9 +20,7 @@ contract UniswapV2ERC20 {
     event Approval(address indexed owner, address indexed spender, uint value);
     event Transfer(address indexed from, address indexed to, uint value);
 
-    constructor(string memory _name, string memory _symbol) public {
-        name = _name;
-        symbol = _symbol;
+    constructor() public {
         uint chainId;
         assembly {
             chainId := chainid()

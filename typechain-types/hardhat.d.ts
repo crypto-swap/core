@@ -64,6 +64,10 @@ declare module "hardhat/types/runtime" {
       name: "UniswapV2Router02",
       signerOrOptions?: ethers.Signer | FactoryOptions
     ): Promise<Contracts.UniswapV2Router02__factory>;
+    getContractFactory(
+      name: "WETH9",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.WETH9__factory>;
 
     getContractAt(
       name: "IERC20Uniswap",
@@ -130,6 +134,11 @@ declare module "hardhat/types/runtime" {
       address: string,
       signer?: ethers.Signer
     ): Promise<Contracts.UniswapV2Router02>;
+    getContractAt(
+      name: "WETH9",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.WETH9>;
 
     // default types
     getContractFactory(
