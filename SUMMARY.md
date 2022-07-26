@@ -5,10 +5,10 @@
 * [Introduction](README.md)
 * [Motivation](the-cryptoswap-protocol/motivation.md)
 * [Liquidity Options](the-cryptoswap-protocol/liquidity-options.md)
+* [Development Timeline](the-cryptoswap-protocol/readme-1.md)
 
 ## Other
 
-* [Development Timeline](<README (1).md>)
 * [中文](other/zhong-wen.md)
 * [แบบไทย](other/undefined.md)
 * [گزینه های نقدینگی](other/gzynh-hay-nqdyngy.md)

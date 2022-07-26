@@ -19,20 +19,24 @@
 
 {% tab title="June 2022" %}
 1. ✅ Finish smart contracts for zkSync testnet (CFMM).&#x20;
-2. ⚙️ Finish the "Pool" page and its features.&#x20;
-3. ⚙️Allow the website to effectively communicate with smart contracts on the Testnet.
-4. ⚙️ Create a faucet for zkSync alpha testnet tokens.
+2. ✅ Finish the "Pool" page and its features.&#x20;
+3. ❗️ Allow the website to effectively communicate with smart contracts on the Testnet.
+4. ❗️ Create a faucet for zkSync alpha testnet tokens.
 5. 🕙 Testnet on zkSync is out.&#x20;
 {% endtab %}
 
 {% tab title="July 2022" %}
-1\. 🕙 Testnet out for sure.&#x20;
+1\. ✅ Create a faucet for zkSync alpha testnet tokens.
 
-2\. 🕙 Implementing Liquidity Options.&#x20;
+2\. ⚙️ Allow the website to effectively communicate with smart contracts on the testnet.
+{% endtab %}
 
-3\. 💡 Design tokenomics & governance schema.&#x20;
+{% tab title="Untitled" %}
+1\.  🕙 Testnet Alpha Release
 
-4\. 💡 MEV prevention architecture.&#x20;
+2\. 💡Implementing Liquidity Options.&#x20;
+
+3\. 💡 MEV prevention architecture.&#x20;
 {% endtab %}
 {% endtabs %}
 
